@@ -1,6 +1,7 @@
+
 ---
-Title: "Daily Journal"
-Date: 2025-2026
+#### Title: "Daily Journal"
+#### Date: 2025-2026
 ---
 
 ## September 18th 2025
