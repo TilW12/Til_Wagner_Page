@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Til Wagner"
   avatar : "/assets/images/TIl.bio.photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "My Name is Til Wagner and this is my page for my Senior Engineering Project."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
